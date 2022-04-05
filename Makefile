@@ -4,12 +4,14 @@
 all: p1 p2 p3
 
 p1:
-	@echo "Running AWK Script proj1: "
-	awk -f proj1/prog.awk data/data.csv | sort -nrk5 | tee ranking.tx
+	@echo "Running Original AWK Script proj1: "
+	awk -f proj1/prog.awk data/data.csv | sort -rnrk5 | tee ranking.tx
+	@echo "Running added top 3 overall car score script"
+	awk -f proj1/top3CarOveral.awk data/data.csv | sort -nrk14 > top3.txt;  head -3 top3.txt
 
 p2:
 	@echo "Running AWK Script proj2: "
-	awk -f proj2/prog.awk data/data.csv | sort -nrk5 | tee ranking.tx
+	awk -f proj2/prog.awk data/data.csv | sort -nrk1 | tee ranking.tx
 
 p3:
 	@echo "Running AWK Script proj3: "

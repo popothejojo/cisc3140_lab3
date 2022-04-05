@@ -1,0 +1,167 @@
+CarID: 83 | Year: 2014 | Make: Honda | Model: Accord | CarOverall 6
+CarID: 186 | Year: 2012 | Make: Volkswagen | Model: Gli | CarOverall 6
+CarID: 172 | Year: 2014 | Make: Bmw | Model: 4 | CarOverall 6
+CarID: 9 | Year: 1996 | Make: Nissan | Model: 240 | CarOverall 4
+CarID: 84 | Year: 2012 | Make: Mercedes | Model: Cl63amg | CarOverall 4
+CarID: 65 | Year: 2009 | Make: Honda | Model: Fit | CarOverall 4
+CarID: 57 | Year: 2015 | Make: Scion | Model: Frs | CarOverall 4
+CarID: 5 | Year: 2003 | Make: Acura | Model: Rsx | CarOverall 4
+CarID: 49 | Year: 1997 | Make: Acura | Model: Integra | CarOverall 4
+CarID: 48 | Year: 2015 | Make: Acura | Model: TLX | CarOverall 4
+CarID: 41 | Year: 2012 | Make: Acura | Model: Tsx | CarOverall 4
+CarID: 39 | Year: 2011 | Make: Honda | Model: Civic | CarOverall 4
+CarID: 36 | Year: 2016 | Make: Subaru | Model: WRX | CarOverall 4
+CarID: 33 | Year: 2015 | Make: Subaru | Model: Sti | CarOverall 4
+CarID: 31 | Year: 2007 | Make: Honda | Model: Fit | CarOverall 4
+CarID: 3 | Year: 2011 | Make: Nissan | Model: 370 | CarOverall 4
+CarID: 25 | Year: 2012 | Make: Mercedes | Model: C250 | CarOverall 4
+CarID: 232 | Year: 2018 | Make: Subaru | Model: WRX | CarOverall 4
+CarID: 23 | Year: 1998 | Make: Subaru | Model: Legacy | CarOverall 4
+CarID: 228 | Year: 2010 | Make: Nissan | Model: 370 | CarOverall 4
+CarID: 218 | Year: 2010 | Make: Chevy | Model: Camaro | CarOverall 4
+CarID: 216 | Year: 2007 | Make: Chrystler | Model: 300 | CarOverall 4
+CarID: 21 | Year: 2009 | Make: Subaru | Model: WRX | CarOverall 4
+CarID: 175 | Year: 2006 | Make: Honda | Model: Civic | CarOverall 4
+CarID: 142 | Year: 1993 | Make: Toyota | Model: Supra | CarOverall 4
+CarID: 128 | Year: 2010 | Make: Infiniti | Model: G37 | CarOverall 4
+CarID: 127 | Year: 2013 | Make: Acura | Model: Tsx | CarOverall 4
+CarID: 124 | Year: 2015 | Make: Jeep | Model: Wrangler | CarOverall 4
+CarID: 12 | Year: 1990 | Make: Nissan | Model: 240 | CarOverall 4
+CarID: 118 | Year: 1993 | Make: Honda | Model: Civic | CarOverall 4
+CarID: Vip | Year: 2008 | Make: Volkswagen | Model: Gli | CarOverall 2
+CarID: 93 | Year: 2005 | Make: Acura | Model: TL | CarOverall 2
+CarID: 91 | Year: 2010 | Make: Mitsu | Model: Lancer | CarOverall 2
+CarID: 88 | Year: 2008 | Make: Honda | Model: Accord | CarOverall 2
+CarID: 81 | Year: 2016 | Make: Volkswagen | Model: GTI | CarOverall 2
+CarID: 8 | Year: 1991 | Make: Nissan | Model: Skyline | CarOverall 2
+CarID: 78 | Year: 2015 | Make: Mazda | Model: 6 | CarOverall 2
+CarID: 76 | Year: 2005 | Make: Subaru | Model: Sti | CarOverall 2
+CarID: 63 | Year: 2010 | Make: Honda | Model: Civic | CarOverall 2
+CarID: 59 | Year: 2012 | Make: Volkswagen | Model: Golf | CarOverall 2
+CarID: 56 | Year: 2009 | Make: Volkswagen | Model: Jetta | CarOverall 2
+CarID: 53 | Year: 2013 | Make: Subaru | Model: WRX | CarOverall 2
+CarID: 51 | Year: 2015 | Make: Subaru | Model: WRX | CarOverall 2
+CarID: 50 | Year: 2015 | Make: Acura | Model: TLX | CarOverall 2
+CarID: 46 | Year: 2008 | Make: Volkswagen | Model: R32 | CarOverall 2
+CarID: 45 | Year: 2006 | Make: Acura | Model: TL | CarOverall 2
+CarID: 4341 | Year: 1992 | Make: Nissan | Model: Rps13 | CarOverall 2
+CarID: 42 | Year: 2001 | Make: Dodge | Model: Viper | CarOverall 2
+CarID: 37 | Year: 2015 | Make: Subaru | Model: Sti | CarOverall 2
+CarID: 34 | Year: 2010 | Make: Honda | Model: Fit | CarOverall 2
+CarID: 30 | Year: 2012 | Make: Hyundai | Model: Celoster | CarOverall 2
+CarID: 24 | Year: 2013 | Make: Subaru | Model: BRZ | CarOverall 2
+CarID: 22 | Year: 2007 | Make: Honda | Model: Civic | CarOverall 2
+CarID: 211 | Year: 2004 | Make: Acura | Model: Tsx | CarOverall 2
+CarID: 200 | Year: 2016 | Make: Subaru | Model: WRX | CarOverall 2
+CarID: 19 | Year: 2001 | Make: Mitsu | Model: Evo7 | CarOverall 2
+CarID: 187 | Year: 2007 | Make: Subaru | Model: Legacy | CarOverall 2
+CarID: 182 | Year: 2012 | Make: Volkswagen | Model: Cc | CarOverall 2
+CarID: 180 | Year: 2011 | Make: Volkswagen | Model: Gti | CarOverall 2
+CarID: 18 | Year: 2015 | Make: Audi | Model: S3 | CarOverall 2
+CarID: 179 | Year: 2004 | Make: Volkswagen | Model: R32 | CarOverall 2
+CarID: 178 | Year: 2009 | Make: Honda | Model: Oddesy | CarOverall 2
+CarID: 161 | Year: 2012 | Make: Nissan | Model: 370z | CarOverall 2
+CarID: 158 | Year: 2007 | Make: Nissan | Model: 350z | CarOverall 2
+CarID: 15 | Year: 2014 | Make: Audi | Model: S4 | CarOverall 2
+CarID: 145 | Year: 1990 | Make: Volkswagen | Model: Gti | CarOverall 2
+CarID: 140 | Year: 1995 | Make: Mitsu | Model: Evo8 | CarOverall 2
+CarID: 134 | Year: 2013 | Make: Subaru | Model: WRX | CarOverall 2
+CarID: 116 | Year: 2008 | Make: Audi | Model: A4 | CarOverall 2
+CarID: 112 | Year: 2008 | Make: Acura | Model: TL | CarOverall 2
+CarID: 11 | Year: 1991 | Make: Nissan | Model: Skyline | CarOverall 2
+CarID: 108 | Year: 2013 | Make: Audi | Model: S4 | CarOverall 2
+CarID: 1051 | Year: 2006 | Make: Acura | Model: Tsx | CarOverall 2
+CarID: 10 | Year: 2001 | Make: Nissan | Model: S15 | CarOverall 2
+CarID: 1 | Year: 2012 | Make: Subaru | Model: WRX | CarOverall 2
+CarID: Showcar | Year: 2014 | Make: Nissan | Model: Gtr | CarOverall 
+CarID: 99 | Year: 2014 | Make: Honda | Model: Civic si | CarOverall 0
+CarID: 98 | Year: 2012 | Make: Mercedes | Model: C63 | CarOverall 0
+CarID: 96 | Year: 2017 | Make: Volkswagen | Model: Gti | CarOverall 0
+CarID: 95 | Year: 2004 | Make: Infiniti | Model: G35 | CarOverall 0
+CarID: 94 | Year: 2004 | Make: Volkswagen | Model: Gti | CarOverall 0
+CarID: 92 | Year: 2017 | Make: Hyundai | Model: Elantra sport | CarOverall 0
+CarID: 89 | Year: 2014 | Make: Honda | Model: Civic si | CarOverall 0
+CarID: 86 | Year: 1996 | Make: Volkswagen | Model: Jetta | CarOverall 0
+CarID: 85 | Year: 2017 | Make: Honda | Model: Accord | CarOverall 0
+CarID: 79 | Year: 1993 | Make: Mazda | Model: Miata | CarOverall 0
+CarID: 75 | Year: 2012 | Make: Subaru | Model: WRX | CarOverall 0
+CarID: 74 | Year: 2015 | Make: Honda | Model: Accord | CarOverall 0
+CarID: 72 | Year: 2016 | Make: Honda | Model: Civic si | CarOverall 0
+CarID: 71 | Year: 2008 | Make: Acura | Model: TL | CarOverall 0
+CarID: 70 | Year: 2014 | Make: Honda | Model: Civic | CarOverall 0
+CarID: 7 | Year: 2014 | Make: Nissan | Model: Sentra | CarOverall 0
+CarID: 69 | Year: 2018 | Make: Subaru | Model: WRX | CarOverall 0
+CarID: 68 | Year: 2013 | Make: Nissan | Model: Altima | CarOverall 0
+CarID: 67 | Year: 2015 | Make: Subaru | Model: Sti | CarOverall 0
+CarID: 66 | Year: 2010 | Make: Volkswagen | Model: Gti | CarOverall 0
+CarID: 64 | Year: 2004 | Make: Subaru | Model: Forester | CarOverall 0
+CarID: 6 | Year: 2016 | Make: Volkswagen | Model: Golf r | CarOverall 2
+CarID: 52 | Year: 2007 | Make: Mazda | Model: Speed 3 | CarOverall 2
+CarID: 44 | Year: 2018 | Make: Honda | Model: Civic si | CarOverall 2
+CarID: 43 | Year: 2011 | Make: Toyota | Model: 4 Runner | CarOverall 4
+CarID: 40 | Year: 2007 | Make: Subaru | Model: Legacy | CarOverall 0
+CarID: 4 | Year: 2007 | Make: Honda | Model: Civic | CarOverall 0
+CarID: 38 | Year: 2017 | Make: Hyundai | Model: Elantra sport | CarOverall 4
+CarID: 35 | Year: 2016 | Make: Honda | Model: Civic | CarOverall 0
+CarID: 28 | Year: 1995 | Make: Bmw | Model: 318xi | CarOverall 0
+CarID: 243 | Year: 2008 | Make: Toyota | Model: Matrix | CarOverall 0
+CarID: 242 | Year: 2014 | Make: Nissan | Model: Maxima | CarOverall 0
+CarID: 241 | Year: 2007 | Make: Toyota | Model: Camry | CarOverall 0
+CarID: 238 | Year: 1982 | Make: Volkswagen | Model: Rabbit | CarOverall 0
+CarID: 237 | Year: 1987 | Make: Volkswagen | Model: Jetta | CarOverall 0
+CarID: 235 | Year: 2013 | Make: Scion | Model: Frs | CarOverall 0
+CarID: 230 | Year: 2004 | Make: Acura | Model: Tsx | CarOverall 0
+CarID: 226 | Year: 2008 | Make: Honda | Model: Accord | CarOverall 0
+CarID: 225 | Year: 2016 | Make: Acura | Model: TLX | CarOverall 0
+CarID: 222 | Year: 2015 | Make: Lexus | Model: Is250 | CarOverall 0
+CarID: 220 | Year: 2004 | Make: Audi | Model: A4 | CarOverall 0
+CarID: 219 | Year: 2016 | Make: Ford | Model: Focus rs | CarOverall 2
+CarID: 212 | Year: 2001 | Make: Lexus | Model: Is300 | CarOverall 0
+CarID: 207 | Year: 1993 | Make: Honda | Model: Civic eG | CarOverall 2
+CarID: 20 | Year: 2009 | Make: Infiniti | Model: G37 | CarOverall 0
+CarID: 2 | Year: 2016 | Make: Bmw | Model: M2 | CarOverall 0
+CarID: 197 | Year: 2010 | Make: Audi | Model: A4 | CarOverall 0
+CarID: 193 | Year: 2014 | Make: Nissan | Model: Ssntra | CarOverall 0
+CarID: 190 | Year: 1995 | Make: Lexus | Model: Sc300 | CarOverall 0
+CarID: 189 | Year: 2012 | Make: Toyota | Model: Fj cruiser | CarOverall 2
+CarID: 185 | Year: 2013 | Make: Volkswagen | Model: Jett | CarOverall 0
+CarID: 184 | Year: 2010 | Make: Volkswagen | Model: Cc | CarOverall 0
+CarID: 183 | Year: 2005 | Make: Volkswagen | Model: Jetta | CarOverall 0
+CarID: 181 | Year: 2003 | Make: Volkswagen | Model: Gti | CarOverall 0
+CarID: 177 | Year: 2005 | Make: Volkswagen | Model: Jetta gli | CarOverall 0
+CarID: 176 | Year: 2014 | Make: Mitsu | Model: Lancer | CarOverall 0
+CarID: 174 | Year: 2006 | Make: Acura | Model: Rsx | CarOverall 0
+CarID: 170 | Year: 2014 | Make: Chevy | Model: Cruze | CarOverall 0
+CarID: 17 | Year: 2016 | Make: Mercedes | Model: C43 | CarOverall 0
+CarID: 167 | Year: 2016 | Make: Ford | Model: Mystang | CarOverall 0
+CarID: 163 | Year: 2013 | Make: Mitsu | Model: Ralliart | CarOverall 0
+CarID: 162 | Year: 2014 | Make: Nissan | Model: 370z | CarOverall 0
+CarID: 16 | Year: 2008 | Make: Nissan | Model: 350z | CarOverall 0
+CarID: 159 | Year: 2013 | Make: Hyundai | Model: Gen coupe | CarOverall 0
+CarID: 156 | Year: 2014 | Make: Volkswagen | Model: Gli | CarOverall 0
+CarID: 153 | Year: 2017 | Make: Subaru | Model: Brz | CarOverall 0
+CarID: 150 | Year: 2006 | Make: Nissan | Model: 350z | CarOverall 0
+CarID: 144 | Year: 2016 | Make: Volkswagen | Model: Gti | CarOverall 0
+CarID: 141 | Year: 1993 | Make: Mazda | Model: Miata | CarOverall 0
+CarID: 14 | Year: 1990 | Make: Nissan | Model: Skyline | CarOverall 0
+CarID: 138 | Year: 1990 | Make: Mazda | Model: Miata | CarOverall 0
+CarID: 137 | Year: 2017 | Make: Ford | Model: Focus rs | CarOverall 2
+CarID: 130 | Year: 2016 | Make: Honda | Model: Civic si | CarOverall 0
+CarID: 13 | Year: 2016 | Make: Honda | Model: Civic 1.5t | CarOverall 0
+CarID: 126 | Year: 2010 | Make: Volkswagen | Model: Eos | CarOverall 0
+CarID: 123 | Year: 2006 | Make: Lexus | Model: Sc430 | CarOverall 0
+CarID: 122 | Year: 2011 | Make: Infiniti | Model: M37s | CarOverall 0
+CarID: 121 | Year: 2012 | Make: Acura | Model: TL | CarOverall 0
+CarID: 120 | Year: 2014 | Make: Ford | Model: Focus st | CarOverall 2
+CarID: 115 | Year: 2001 | Make: Honda | Model: Crv | CarOverall 0
+CarID: 114 | Year: 2010 | Make: Volkswagen | Model: Gti | CarOverall 0
+CarID: 113 | Year: 2012 | Make: Acura | Model: Tsx sportwagon | CarOverall 2
+CarID: 111 | Year: 2007 | Make: Bmw | Model: 328i | CarOverall 0
+CarID: 110 | Year: 2011 | Make: Toyota | Model: Camry | CarOverall 0
+CarID: 106 | Year: 2007 | Make: Acura | Model: Tl type s | CarOverall 2
+CarID: 104 | Year: 2014 | Make: Honda | Model: Civic si | CarOverall 4
+CarID: 103 | Year: 2010 | Make: Acura | Model: Tsx | CarOverall 0
+CarID: 102 | Year: 2015 | Make: Honda | Model: Accord | CarOverall 0
+CarID: 101 | Year: 2014 | Make: Honda | Model: Civic | CarOverall 0
+CarID: 100 | Year: 2006 | Make: Volvo | Model: S60r | CarOverall 0
+CarID: 0 | Year: 2015 | Make: Chevy | Model: Camaro | CarOverall 0
