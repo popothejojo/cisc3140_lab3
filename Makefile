@@ -13,6 +13,8 @@ p1:
 p2:
 	@echo "Running AWK Script proj2: "
 	awk -f ./proj2/prog.awk data/data.csv | sort -rnrk1 | tee ranking.tx
+	@echo "Running AWK Top3 Cars Script proj2 : "
+	awk -v var=15 -f proj1/top3CarOveral.awk data/data.csv | sort -nrk14 > top3.txt;  head -3 top3.txt
 p3:
 	@echo "Running AWK Script proj3: "
 #awk file produces three seperate files: top_3, ranks, and headers (headers added to the final files)
