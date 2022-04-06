@@ -1,166 +1,166 @@
-CarID: Vip | Year: 2008 | Make: Volkswagen | Model: Gli | Rated-score 8/5/2018 17:07,salliker4m@nsw.gov.au,Salomon,2008,Volkswagen,Gli,Vip,J01,Wayne,2,0,2,2,2,2,0,0,0,2,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-CarID: 98 | Year: 2012 | Make: Mercedes | Model: C63 | Rated-score 8/5/2018 14:08,eguild24@istockphoto.com,Englebert,2012,Mercedes,C63,98,J09,Dan,2,0,0,2,0,0,4,2,0,0,0,4,2,2,2,0,2,0,2,0,0,0,0,0,2
-CarID: 96 | Year: 2017 | Make: Volkswagen | Model: Gti | Rated-score 8/5/2018 16:44,wdigweed23@about.me,Wynn,2017,Volkswagen,Gti,96,J01,Wayne,2,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,2,0,0,0,0,2
-CarID: 95 | Year: 2004 | Make: Infiniti | Model: G35 | Rated-score 8/5/2018 17:13,nbatstone22@yellowbook.com,Norry,2004,Infiniti,G35,95,J06,Aaron,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,0,4,2,0,0,0,,0,0
-CarID: 94 | Year: 2004 | Make: Volkswagen | Model: Gti | Rated-score 8/5/2018 16:46,easling21@sina.com.cn,Estevan,2004,Volkswagen,Gti,94,J01,Wayne,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,2,0,0,0,2
-CarID: 93 | Year: 2005 | Make: Acura | Model: TL | Rated-score 8/5/2018 17:10,ckovnot20@tamu.edu,Cesaro,2005,Acura,TL,93,J04,Bob,0,0,0,2,2,0,0,0,0,2,0,2,2,2,0,2,0,0,4,2,2,0,0,0,0
-CarID: 91 | Year: 2010 | Make: Mitsu | Model: Lancer | Rated-score 8/5/2018 15:26,cbragginton1y@house.gov,Coop,2010,Mitsu,Lancer,91,J08,Danny,0,0,4,4,2,6,4,4,6,4,6,4,4,4,6,4,4,2,6,6,4,4,4,4,6
-CarID: 9 | Year: 1996 | Make: Nissan | Model: 240 | Rated-score 8/5/2018 15:10,ppaffot6@mysql.com,Pierson,1996,Nissan,240,9,J03,Carol,2,0,4,4,4,4,4,0,0,0,2,2,0,0,0,2,2,2,2,2,2,0,2,,4
-CarID: 88 | Year: 2008 | Make: Honda | Model: Accord | Rated-score 8/5/2018 15:34,knann1w@newyorker.com,Karney,2008,Honda,Accord,88,J06,Aaron,0,0,0,2,2,0,2,0,4,4,2,4,2,2,4,4,2,0,4,2,2,0,2,0,4
-CarID: 86 | Year: 1996 | Make: Volkswagen | Model: Jetta | Rated-score 8/5/2018 16:42,hdrennan1v@hatena.ne.jp,Hebert,1996,Volkswagen,Jetta,86,J01,Wayne,0,0,0,0,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0
-CarID: 85 | Year: 2017 | Make: Honda | Model: Accord | Rated-score 8/5/2018 15:48,ssiemens1u@narod.ru,Sholom,2017,Honda,Accord,85,J06,Aaron,0,0,0,0,0,0,0,0,0,2,4,2,4,4,2,2,2,0,4,4,4,2,2,0,4
-CarID: 84 | Year: 2012 | Make: Mercedes | Model: Cl63amg | Rated-score 8/5/2018 14:28,okerwood1t@ebay.co.uk,Orton,2012,Mercedes,Cl63amg,84,J09,Dan,2,2,4,4,4,2,4,4,2,4,4,2,0,4,4,4,4,0,4,4,2,0,2,2,2
-CarID: 83 | Year: 2014 | Make: Honda | Model: Accord | Rated-score 8/5/2018 15:42,pjacke1s@theguardian.com,Palmer,2014,Honda,Accord,83,J06,Aaron,0,4,4,4,6,6,4,4,4,6,4,6,6,6,6,4,4,0,6,6,6,6,4,0,6
-CarID: 81 | Year: 2016 | Make: Volkswagen | Model: GTI | Rated-score 8/5/2018 14:51,wdreher1r@bloomberg.com,Ware,2016,Volkswagen,GTI,81,J01,Wayne,0,0,2,2,2,0,0,0,0,0,2,2,2,2,4,4,0,0,2,0,0,0,0,0,0
-CarID: 8 | Year: 1991 | Make: Nissan | Model: Skyline | Rated-score 8/5/2018 15:39,sdeesly5@storify.com,Sigfried,1991,Nissan,Skyline,8,J03,Carol,2,0,2,2,2,2,2,0,0,0,2,4,2,2,2,2,2,2,2,2,2,0,2,2,4
-CarID: 79 | Year: 1993 | Make: Mazda | Model: Miata | Rated-score 8/5/2018 14:17,rleheude1q@ted.com,Rustin,1993,Mazda,Miata,79,J04,Bob,0,0,0,0,0,0,0,0,0,0,2,2,2,0,2,0,2,0,2,0,0,0,2,2,2
-CarID: 78 | Year: 2015 | Make: Mazda | Model: 6 | Rated-score 8/5/2018 17:07,nlidbetter1p@artisteer.com,Nollie,2015,Mazda,6,78,J04,Bob,0,0,0,2,2,2,0,0,2,2,2,4,2,2,4,2,2,0,4,2,0,0,2,0,0
-CarID: 76 | Year: 2005 | Make: Subaru | Model: Sti | Rated-score 8/5/2018 17:07,rbuckthorp1o@wiley.com,Roi,2005,Subaru,Sti,76,J09,Dan,2,0,0,2,2,2,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0
-CarID: 75 | Year: 2012 | Make: Subaru | Model: WRX | Rated-score 8/5/2018 15:31,rmoyser1n@github.io,Redford,2012,Subaru,WRX,75,J09,Dan,0,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0
-CarID: 74 | Year: 2015 | Make: Honda | Model: Accord | Rated-score 8/5/2018 17:02,bholwell1m@hhs.gov,Bartholomeo,2015,Honda,Accord,74,J06,Aaron,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,0,0,2
-CarID: 71 | Year: 2008 | Make: Acura | Model: TL | Rated-score 8/5/2018 17:04,obennis1k@opensource.org,Osborn,2008,Acura,TL,71,J04,Bob,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,2,0,0,0,0,0,0
-CarID: 70 | Year: 2014 | Make: Honda | Model: Civic | Rated-score 8/5/2018 15:43,pdeetlefs1j@youtu.be,Paul,2014,Honda,Civic,70,J06,Aaron,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CarID: 7 | Year: 2014 | Make: Nissan | Model: Sentra | Rated-score 8/5/2018 16:40,aleadstone4@smugmug.com,Alix,2014,Nissan,Sentra,7,J03,Carol,0,0,2,2,0,0,0,0,2,0,0,2,2,2,2,0,0,0,2,4,2,2,2,0,4
-CarID: 69 | Year: 2018 | Make: Subaru | Model: WRX | Rated-score 8/5/2018 17:10,abroske1i@macromedia.com,Amory,2018,Subaru,WRX,69,J09,Dan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,0,0,0,0,0,0,0,0,0
-CarID: 68 | Year: 2013 | Make: Nissan | Model: Altima | Rated-score 8/5/2018 15:39,shallagan1h@yandex.ru,Scot,2013,Nissan,Altima,68,J03,Carol,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,2,0,0,2,0,0,0,0,0,2
-CarID: 67 | Year: 2015 | Make: Subaru | Model: Sti | Rated-score 8/5/2018 17:13,wgloucester1g@phpbb.com,Wilbur,2015,Subaru,Sti,67,J09,Dan,0,0,2,0,0,2,0,0,0,0,0,2,0,2,0,0,0,0,2,0,0,2,0,0,2
-CarID: 66 | Year: 2010 | Make: Volkswagen | Model: Gti | Rated-score 8/5/2018 15:36,tbounde1f@trellian.com,Teador,2010,Volkswagen,Gti,66,J01,Wayne,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0
-CarID: 65 | Year: 2009 | Make: Honda | Model: Fit | Rated-score 8/5/2018 16:53,telfe1e@tripod.com,Trumaine,2009,Honda,Fit,65,J06,Aaron,0,0,2,4,4,6,4,6,6,4,4,4,4,6,4,4,6,4,6,6,4,4,6,2,6
-CarID: 64 | Year: 2004 | Make: Subaru | Model: Forester | Rated-score 8/5/2018 15:33,cspeechley1d@naver.com,Carver,2004,Subaru,Forester,64,J09,Dan,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,0,0,0,0,0
-CarID: 63 | Year: 2010 | Make: Honda | Model: Civic | Rated-score 8/5/2018 16:49,craleston1c@blogtalkradio.com,Cris,2010,Honda,Civic,63,J06,Aaron,0,0,2,2,2,4,4,4,6,4,4,4,4,4,4,2,6,4,4,6,4,0,4,4,4
-CarID: 59 | Year: 2012 | Make: Volkswagen | Model: Golf | Rated-score 8/5/2018 14:06,rbechley1a@spiegel.de,Rolf,2012,Volkswagen,Golf,59,J01,Wayne,0,0,2,2,2,2,2,0,2,2,0,2,0,2,2,2,2,0,,2,2,0,0,0,0
-CarID: 57 | Year: 2015 | Make: Scion | Model: Frs | Rated-score 8/5/2018 16:38,amabey19@tumblr.com,Arman,2015,Scion,Frs,57,J04,Bob,4,4,4,4,4,4,4,4,4,4,2,4,2,2,4,4,4,0,4,2,4,0,4,0,4
-CarID: 56 | Year: 2009 | Make: Volkswagen | Model: Jetta | Rated-score 8/5/2018 14:35,hcollings18@sina.com.cn,Haily,2009,Volkswagen,Jetta,56,J01,Wayne,0,0,2,2,2,2,0,2,4,2,2,2,0,4,2,2,2,0,4,2,2,0,2,0,2
-CarID: 53 | Year: 2013 | Make: Subaru | Model: WRX | Rated-score 8/5/2018 17:09,ptreuge17@over-blog.com,Pembroke,2013,Subaru,WRX,53,J09,Dan,2,2,2,2,2,2,2,2,2,2,4,4,2,4,2,4,4,2,2,4,2,0,2,0,4
-CarID: 51 | Year: 2015 | Make: Subaru | Model: WRX | Rated-score 8/5/2018 14:11,tdillestone15@mysql.com,Temple,2015,Subaru,WRX,51,J09,Dan,2,0,2,2,2,2,2,0,4,2,2,2,2,2,2,4,4,2,2,2,2,0,2,2,2
-CarID: 50 | Year: 2015 | Make: Acura | Model: TLX | Rated-score 8/5/2018 15:48,hkamienski2i@howstuffworks.com,Homerus,2015,Acura,TLX,50,J04,Bob,0,6,6,2,2,4,2,4,4,4,4,6,6,6,6,6,6,2,4,4,4,4,2,2,6
-CarID: 5 | Year: 2003 | Make: Acura | Model: Rsx | Rated-score 8/5/2018 13:11,ssheather2@fc2.com,Sayers,2003,Acura,Rsx,5,J04,Bob,2,0,2,2,4,2,2,0,0,2,2,2,2,0,0,2,2,2,4,4,4,2,4,0,4
-CarID: 49 | Year: 1997 | Make: Acura | Model: Integra | Rated-score 8/5/2018 13:46,tdrabble14@tripod.com,Ted,1997,Acura,Integra,49,J04,Bob,0,0,2,2,4,2,2,2,4,2,0,2,2,2,0,0,2,0,2,2,2,0,2,2,4
-CarID: 48 | Year: 2015 | Make: Acura | Model: TLX | Rated-score 8/5/2018 14:10,honoland13@japanpost.jp,Hernando,2015,Acura,TLX,48,J04,Bob,0,0,2,2,4,4,0,2,4,4,2,4,2,2,2,2,2,0,4,4,4,6,2,0,4
-CarID: 46 | Year: 2008 | Make: Volkswagen | Model: R32 | Rated-score 8/5/2018 13:53,egoley12@twitter.com,Early,2008,Volkswagen,R32,46,J01,Wayne,0,0,2,0,2,0,2,2,2,2,0,2,0,2,2,2,2,0,2,2,2,2,2,0,0
-CarID: 45 | Year: 2006 | Make: Acura | Model: TL | Rated-score 8/5/2018 13:58,kduggon11@reddit.com,Kylie,2006,Acura,TL,45,J04,Bob,0,0,0,0,2,2,2,2,2,2,0,2,2,2,4,2,2,2,4,2,2,0,2,2,2
-CarID: 4341 | Year: 1992 | Make: Nissan | Model: Rps13 | Rated-score 8/5/2018 15:20,rfrier4k@jalbum.net,Ronald,1992,Nissan,Rps13,4341,J03,Carol,2,0,2,2,2,2,2,0,2,0,0,0,0,0,2,0,2,2,2,2,2,0,2,2,2
-CarID: 42 | Year: 2001 | Make: Dodge | Model: Viper | Rated-score 8/5/2018 13:16,rgillmory@epa.gov,Rowney,2001,Dodge,Viper,42,J02,Carl,0,0,0,0,2,0,0,0,2,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0
-CarID: 41 | Year: 2012 | Make: Acura | Model: Tsx | Rated-score 8/5/2018 13:36,bmcconnalx@phoca.cz,Barbabas,2012,Acura,Tsx,41,J04,Bob,0,0,2,2,4,2,2,2,4,4,2,4,2,4,4,4,2,2,4,2,2,4,4,0,2
-CarID: 40 | Year: 2007 | Make: Subaru | Model: Legacy | Rated-score 8/5/2018 17:46,aeaster3u@reuters.com,Aksel,2007,Subaru,Legacy,40,J09,Dan,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,0,0,0
-CarID: 4 | Year: 2007 | Make: Honda | Model: Civic | Rated-score 8/5/2018 17:00,ewrinch1b@cloudflare.com,Evan,2007,Honda,Civic,4,J06,Aaron,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,4,4,0,0,0,2,0,0
-CarID: 39 | Year: 2011 | Make: Honda | Model: Civic | Rated-score 8/5/2018 13:25,mjehanw@so-net.ne.jp,Muffin,2011,Honda,Civic,39,J06,Aaron,2,0,2,2,4,2,2,2,4,4,2,4,4,4,4,2,4,2,4,4,2,4,4,0,4
-CarID: 37 | Year: 2015 | Make: Subaru | Model: Sti | Rated-score 8/5/2018 14:50,ftinmant@sina.com.cn,Feodor,2015,Subaru,Sti,37,J09,Dan,2,0,2,2,2,2,2,2,4,4,4,4,0,4,2,4,2,0,2,2,0,0,2,2,4
-CarID: 36 | Year: 2016 | Make: Subaru | Model: WRX | Rated-score 8/5/2018 14:57,ogaraghans@huffingtonpost.com,Ozzy,2016,Subaru,WRX,36,J09,Dan,2,0,4,4,4,4,4,0,4,4,4,4,0,4,4,4,4,2,2,4,,2,4,2,4
-CarID: 35 | Year: 2016 | Make: Honda | Model: Civic | Rated-score 8/5/2018 17:19,ggentricr@prweb.com,Gerhardt,2016,Honda,Civic,35,J06,Aaron,0,0,0,2,0,2,2,4,2,2,2,2,2,4,4,4,4,4,4,2,2,2,2,4,4
-CarID: 34 | Year: 2010 | Make: Honda | Model: Fit | Rated-score 8/5/2018 16:56,skenewellq@chronoengine.com,Sutherland,2010,Honda,Fit,34,J06,Aaron,0,0,0,0,2,0,0,0,0,0,0,2,2,2,2,2,2,2,2,0,0,0,0,0,0
-CarID: 33 | Year: 2015 | Make: Subaru | Model: Sti | Rated-score 8/5/2018 15:00,gsemmensp@google.co.uk,Gideon,2015,Subaru,Sti,33,J09,Dan,2,0,4,2,4,2,4,2,4,,4,2,0,4,4,4,2,4,2,4,2,2,4,2,4
-CarID: 31 | Year: 2007 | Make: Honda | Model: Fit | Rated-score 8/5/2018 16:51,jaaronsono@ezinearticles.com,Jereme,2007,Honda,Fit,31,J06,Aaron,0,4,6,4,4,4,4,4,6,6,4,4,4,6,6,4,4,0,6,6,4,0,6,0,6
-CarID: 30 | Year: 2012 | Make: Hyundai | Model: Celoster | Rated-score 8/5/2018 17:29,qesterbrookn@bandcamp.com,Quincy,2012,Hyundai,Celoster,30,J04,Bob,0,0,2,2,2,2,2,4,6,6,4,2,4,4,6,6,4,0,2,0,0,0,2,2,4
-CarID: 3 | Year: 2011 | Make: Nissan | Model: 370 | Rated-score 8/5/2018 16:50,bpengelly36@ca.gov,Barbabas,2011,Nissan,370,3,J03,Carol,4,4,4,4,4,2,2,4,4,4,4,4,4,4,4,4,4,2,2,4,2,4,2,0,4
-CarID: 28 | Year: 1995 | Make: Bmw | Model: 318xi | Rated-score 8/5/2018 14:17,imccream@51.la,Iggie,1995,Bmw,318xi,28,J01,Wayne,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,2,0,0,2,0,0,0
-CarID: 25 | Year: 2012 | Make: Mercedes | Model: C250 | Rated-score 8/5/2018 15:52,yheinerl@altervista.org,Yvor,2012,Mercedes,C250,25,J09,Dan,2,0,2,2,4,4,0,2,4,6,4,4,4,4,6,6,4,0,4,6,2,2,2,0,4
-CarID: 243 | Year: 2008 | Make: Toyota | Model: Matrix | Rated-score 8/5/2018 15:17,sdennidge4i@gnu.org,Sollie,2008,Toyota,Matrix,243,J04,Bob,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,2,2,0,0,2,0,0,0,0
-CarID: 242 | Year: 2014 | Make: Nissan | Model: Maxima | Rated-score 8/5/2018 17:27,ttoulmin4h@usda.gov,Tris,2014,Nissan,Maxima,242,J03,Carol,0,0,0,0,0,0,0,0,4,2,2,0,0,2,2,4,2,0,0,2,2,0,2,0,2
-CarID: 241 | Year: 2007 | Make: Toyota | Model: Camry | Rated-score 8/5/2018 14:35,haronov4g@cyberchimps.com,Hastings,2007,Toyota,Camry,241,J04,Bob,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,2,0,0,2,0,0,2,2,0,2
-CarID: 24 | Year: 2013 | Make: Subaru | Model: BRZ | Rated-score 8/5/2018 16:21,swyerk@creativecommons.org,Sauveur,2013,Subaru,BRZ,24,J09,Dan,0,0,0,2,2,2,0,0,0,0,2,4,2,4,4,4,2,0,2,0,0,0,0,0,2
-CarID: 238 | Year: 1982 | Make: Volkswagen | Model: Rabbit | Rated-score 8/5/2018 15:25,rklimkin4f@t-online.de,Renaud,1982,Volkswagen,Rabbit,238,J01,Wayne,0,0,0,0,0,0,0,0,2,0,2,4,0,2,2,2,2,2,0,2,2,0,2,2,2
-CarID: 237 | Year: 1987 | Make: Volkswagen | Model: Jetta | Rated-score 8/5/2018 16:48,proles4e@lycos.com,Padraic,1987,Volkswagen,Jetta,237,J01,Wayne,0,0,0,0,0,2,0,2,2,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0
-CarID: 235 | Year: 2013 | Make: Scion | Model: Frs | Rated-score 8/5/2018 16:28,hlanchbury4d@friendfeed.com,Huntley,2013,Scion,Frs,235,J04,Bob,2,0,0,0,0,0,2,0,0,0,0,2,2,2,0,2,2,0,2,0,2,0,0,0,2
-CarID: 232 | Year: 2018 | Make: Subaru | Model: WRX | Rated-score 8/5/2018 15:23,mblazewicz4c@w3.org,Marmaduke,2018,Subaru,WRX,232,J09,Dan,2,0,2,2,4,2,2,0,0,2,2,2,4,2,2,4,2,4,4,2,2,0,0,0,0
-CarID: 230 | Year: 2004 | Make: Acura | Model: Tsx | Rated-score 8/5/2018 17:33,croscrigg4b@clickbank.net,Cullen,2004,Acura,Tsx,230,J04,Bob,0,0,0,0,0,0,0,0,2,2,2,2,0,2,2,2,0,0,0,0,0,2,2,0,2
-CarID: 23 | Year: 1998 | Make: Subaru | Model: Legacy | Rated-score 8/5/2018 16:15,tsewallj@joomla.org,Tremayne,1998,Subaru,Legacy,23,J09,Dan,0,0,2,0,4,2,0,0,4,4,4,4,2,4,4,4,2,4,4,2,2,0,4,0,6
-CarID: 228 | Year: 2010 | Make: Nissan | Model: 370 | Rated-score 8/5/2018 17:14,bbach4a@hugedomains.com,Baillie,2010,Nissan,370,228,J03,Carol,4,2,4,4,4,4,4,4,4,4,2,2,4,4,4,4,4,4,4,4,4,4,4,2,4
-CarID: 226 | Year: 2008 | Make: Honda | Model: Accord | Rated-score 8/5/2018 17:30,kkliner49@xrea.com,Koenraad,2008,Honda,Accord,226,J06,Aaron,0,0,0,0,0,0,0,0,0,0,2,2,0,2,0,2,2,0,0,2,2,2,2,0,0
-CarID: 225 | Year: 2016 | Make: Acura | Model: TLX | Rated-score 8/5/2018 17:36,afeldharker48@whitehouse.gov,Abbey,2016,Acura,TLX,225,J04,Bob,0,0,0,0,0,0,0,0,0,4,2,2,2,2,4,4,4,4,4,6,4,2,2,2,4
-CarID: 222 | Year: 2015 | Make: Lexus | Model: Is250 | Rated-score 8/5/2018 17:10,eguest47@microsoft.com,Edan,2015,Lexus,Is250,222,J05,Adrian,0,0,0,0,0,0,0,0,6,6,6,0,0,6,6,6,0,0,0,0,0,0,0,0,4
-CarID: 220 | Year: 2004 | Make: Audi | Model: A4 | Rated-score 8/5/2018 17:24,vbloom46@businessinsider.com,Vladimir,2004,Audi,A4,220,J05,Adrian,0,0,0,0,0,0,0,0,0,2,2,0,0,2,0,2,0,0,0,0,0,2,2,0,2
-CarID: 22 | Year: 2007 | Make: Honda | Model: Civic | Rated-score 8/5/2018 14:30,lgarstangi@angelfire.com,Lowe,2007,Honda,Civic,22,J06,Aaron,0,0,0,0,2,0,0,0,0,2,2,4,2,2,2,2,0,0,4,0,0,0,0,0,2
-CarID: 218 | Year: 2010 | Make: Chevy | Model: Camaro | Rated-score 8/5/2018 17:14,hsolomon44@opensource.org,Horst,2010,Chevy,Camaro,218,J02,Carl,4,0,4,4,4,4,4,0,4,4,2,2,0,4,2,2,2,0,2,2,2,2,2,4,4
-CarID: 216 | Year: 2007 | Make: Chrystler | Model: 300 | Rated-score 8/5/2018 17:11,aamor43@miibeian.gov.cn,Asher,2007,Chrystler,300,216,J02,Carl,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,0,4
-CarID: 212 | Year: 2001 | Make: Lexus | Model: Is300 | Rated-score 8/5/2018 17:05,dbummfrey42@miibeian.gov.cn,Dav,2001,Lexus,Is300,212,J05,Adrian,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0
-CarID: 211 | Year: 2004 | Make: Acura | Model: Tsx | Rated-score 8/5/2018 17:51,ewinston41@ft.com,Ellswerth,2004,Acura,Tsx,211,J04,Bob,0,0,0,0,2,2,2,2,4,2,2,4,4,2,4,2,2,2,2,2,4,2,0,2,0
-CarID: 21 | Year: 2009 | Make: Subaru | Model: WRX | Rated-score 8/5/2018 16:27,ariccellih@addthis.com,Alvis,2009,Subaru,WRX,21,J09,Dan,2,0,2,2,4,2,2,2,4,4,2,4,4,4,2,4,0,0,6,4,2,0,2,0,4
-CarID: 200 | Year: 2016 | Make: Subaru | Model: WRX | Rated-score 8/5/2018 17:00,rquerree3z@seesaa.net,Rand,2016,Subaru,WRX,200,J09,Dan,0,0,0,0,2,0,0,2,2,2,2,2,0,2,4,4,2,0,2,2,2,0,2,2,2
-CarID: 20 | Year: 2009 | Make: Infiniti | Model: G37 | Rated-score 8/5/2018 17:00,alynamg@blogtalkradio.com,Aldridge,2009,Infiniti,G37,20,J06,Aaron,2,0,2,2,0,0,2,0,0,2,2,2,2,2,2,2,2,2,4,2,2,0,2,0,2
-CarID: 2 | Year: 2016 | Make: Bmw | Model: M2 | Rated-score 8/5/2018 13:47,jmewis1@vistaprint.com,Jordon,2016,Bmw,M2,2,J01,Wayne,0,2,0,0,0,0,2,0,0,0,2,2,0,2,0,0,2,0,4,2,0,0,2,2,2
-CarID: 197 | Year: 2010 | Make: Audi | Model: A4 | Rated-score 8/5/2018 15:14,ewinship3y@tripod.com,Enrico,2010,Audi,A4,197,J05,Adrian,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-CarID: 193 | Year: 2014 | Make: Nissan | Model: Ssntra | Rated-score 8/5/2018 17:35,nmarkey3x@taobao.com,Napoleon,2014,Nissan,Ssntra,193,J03,Carol,0,0,0,0,0,0,0,0,2,2,2,2,0,0,0,0,0,2,2,0,0,0,0,0,2
-CarID: 190 | Year: 1995 | Make: Lexus | Model: Sc300 | Rated-score 8/5/2018 17:31,pjanse3w@mozilla.org,Parker,1995,Lexus,Sc300,190,J05,Adrian,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,0,0,2,0,0,0,0,0,0
-CarID: 19 | Year: 2001 | Make: Mitsu | Model: Evo7 | Rated-score 8/5/2018 17:05,jloveredgef@berkeley.edu,Jae,2001,Mitsu,Evo7,19,J08,Danny,2,0,2,2,2,2,0,0,0,0,2,2,0,2,2,4,2,2,4,2,2,0,4,0,2
-CarID: 187 | Year: 2007 | Make: Subaru | Model: Legacy | Rated-score 8/5/2018 17:39,gelham3t@illinois.edu,Griffith,2007,Subaru,Legacy,187,J09,Dan,0,2,2,2,2,2,2,0,0,0,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2
-CarID: 186 | Year: 2012 | Make: Volkswagen | Model: Gli | Rated-score 8/5/2018 16:29,udunseath3s@jiathis.com,Uriah,2012,Volkswagen,Gli,186,J01,Wayne,0,0,0,0,6,0,2,0,0,0,0,2,0,0,0,0,0,0,2,0,0,2,0,0,0
-CarID: 185 | Year: 2013 | Make: Volkswagen | Model: Jett | Rated-score 8/5/2018 15:05,tsandeman3r@wp.com,Taddeusz,2013,Volkswagen,Jett,185,J01,Wayne,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,2,0,2,0,0,0,0,0,0
-CarID: 184 | Year: 2010 | Make: Volkswagen | Model: Cc | Rated-score 8/5/2018 16:31,erugiero3q@webs.com,Ernie,2010,Volkswagen,Cc,184,J01,Wayne,0,0,0,0,0,2,2,0,0,0,0,2,0,0,0,0,0,0,2,0,0,0,0,0,0
-CarID: 183 | Year: 2005 | Make: Volkswagen | Model: Jetta | Rated-score 8/5/2018 14:54,zoller3p@paypal.com,Zachery,2005,Volkswagen,Jetta,183,J01,Wayne,2,0,0,2,0,0,2,0,0,2,0,0,0,0,2,2,0,0,0,2,0,0,0,0,2
-CarID: 182 | Year: 2012 | Make: Volkswagen | Model: Cc | Rated-score 8/5/2018 14:49,djakoubec3o@aboutads.info,Darcy,2012,Volkswagen,Cc,182,J01,Wayne,2,0,0,2,2,2,0,0,0,0,0,2,2,0,2,0,0,0,2,0,0,2,0,0,2
-CarID: 181 | Year: 2003 | Make: Volkswagen | Model: Gti | Rated-score 8/5/2018 15:02,ahapps3n@delicious.com,Arri,2003,Volkswagen,Gti,181,J01,Wayne,2,0,0,2,0,0,2,0,2,0,0,2,0,2,2,2,2,6,2,0,0,0,2,0,2
-CarID: 180 | Year: 2011 | Make: Volkswagen | Model: Gti | Rated-score 8/5/2018 16:26,jlewington3m@psu.edu,Jeromy,2011,Volkswagen,Gti,180,J01,Wayne,2,,,2,2,2,4,2,4,4,6,6,6,4,4,4,4,2,6,4,4,0,4,2,4
-CarID: 18 | Year: 2015 | Make: Audi | Model: S3 | Rated-score 8/5/2018 16:55,gbellwoode@chicagotribune.com,Greg,2015,Audi,S3,18,J05,Adrian,0,0,2,2,2,0,0,0,0,2,2,2,2,2,2,2,4,2,2,2,0,2,2,2,2
-CarID: 179 | Year: 2004 | Make: Volkswagen | Model: R32 | Rated-score 8/5/2018 14:57,aspink3l@yolasite.com,Ashlin,2004,Volkswagen,R32,179,J01,Wayne,4,0,4,4,2,2,4,6,2,0,2,2,0,0,2,0,0,0,2,0,0,0,0,0,2
-CarID: 178 | Year: 2009 | Make: Honda | Model: Oddesy | Rated-score 8/5/2018 16:11,abowton3k@spiegel.de,Ambros,2009,Honda,Oddesy,178,J06,Aaron,2,0,2,2,2,2,2,0,4,4,2,2,2,4,4,4,2,2,,6,4,4,6,4,6
-CarID: 176 | Year: 2014 | Make: Mitsu | Model: Lancer | Rated-score 8/5/2018 16:19,gleggs3i@jiathis.com,Germaine,2014,Mitsu,Lancer,176,J08,Danny,0,0,0,0,0,0,2,0,0,0,2,2,2,2,4,6,4,0,2,2,2,2,4,0,4
-CarID: 175 | Year: 2006 | Make: Honda | Model: Civic | Rated-score 8/5/2018 16:21,tmilhench3h@admin.ch,Taber,2006,Honda,Civic,175,J06,Aaron,0,0,4,4,4,4,4,6,6,6,4,4,4,6,4,6,2,2,6,4,4,0,4,0,4
-CarID: 174 | Year: 2006 | Make: Acura | Model: Rsx | Rated-score 8/5/2018 14:37,tpinnijar3g@walmart.com,Teodor,2006,Acura,Rsx,174,J04,Bob,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0
-CarID: 172 | Year: 2014 | Make: Bmw | Model: 4 | Rated-score 8/5/2018 14:44,abeeres3f@apache.org,Aurthur,2014,Bmw,4,172,J01,Wayne,2,0,2,0,6,0,0,0,6,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,0
-CarID: 170 | Year: 2014 | Make: Chevy | Model: Cruze | Rated-score 8/5/2018 14:33,obenstead3e@psu.edu,Osborn,2014,Chevy,Cruze,170,J02,Carl,0,0,0,0,0,0,0,0,0,0,2,4,4,4,4,2,4,4,4,4,2,0,4,4,4
-CarID: 17 | Year: 2016 | Make: Mercedes | Model: C43 | Rated-score 8/5/2018 16:53,gdongated@ca.gov,Gustavo,2016,Mercedes,C43,17,J09,Dan,2,2,2,0,0,2,2,2,2,0,0,0,0,0,2,0,2,4,4,4,2,0,0,0,2
-CarID: 167 | Year: 2016 | Make: Ford | Model: Mystang | Rated-score 8/5/2018 14:30,nnowick3d@tuttocitta.it,Nickolas,2016,Ford,Mystang,167,J02,Carl,0,0,2,2,0,2,2,0,0,0,0,2,0,2,2,2,0,0,2,0,0,0,0,0,2
-CarID: 163 | Year: 2013 | Make: Mitsu | Model: Ralliart | Rated-score 8/5/2018 16:16,sdundin3c@engadget.com,Shepherd,2013,Mitsu,Ralliart,163,J08,Danny,2,0,0,2,0,2,2,0,0,0,2,2,0,0,0,2,2,0,2,2,0,0,0,0,2
-CarID: 162 | Year: 2014 | Make: Nissan | Model: 370z | Rated-score 8/5/2018 13:39,bpeaple3b@irs.gov,Baudoin,2014,Nissan,370z,162,J03,Carol,2,0,2,0,0,0,2,2,2,0,0,4,0,0,0,2,4,2,4,0,2,0,4,2,2
-CarID: 161 | Year: 2012 | Make: Nissan | Model: 370z | Rated-score 8/5/2018 17:33,spoon3a@gizmodo.com,Sheffy,2012,Nissan,370z,161,J03,Carol,0,0,2,2,2,2,2,2,4,0,4,6,6,4,4,4,6,4,6,4,4,4,4,2,6
-CarID: 16 | Year: 2008 | Make: Nissan | Model: 350z | Rated-score 8/5/2018 14:28,kportec@statcounter.com,Killy,2008,Nissan,350z,16,J03,Carol,0,0,2,0,0,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,2,0,0,0
-CarID: 158 | Year: 2007 | Make: Nissan | Model: 350z | Rated-score 8/5/2018 17:31,wgascard38@issuu.com,Wally,2007,Nissan,350z,158,J03,Carol,0,0,2,2,2,2,0,0,2,0,2,6,4,2,2,2,6,2,2,6,2,6,2,4,6
-CarID: 156 | Year: 2014 | Make: Volkswagen | Model: Gli | Rated-score 8/5/2018 15:59,jbrockton37@moonfruit.com,Jamison,2014,Volkswagen,Gli,156,J01,Wayne,0,0,0,0,0,0,0,0,0,0,2,6,4,6,6,4,4,6,6,2,2,0,4,0,4
-CarID: 153 | Year: 2017 | Make: Subaru | Model: Brz | Rated-score 8/5/2018 16:00,ntytcomb35@cmu.edu,Nick,2017,Subaru,Brz,153,J09,Dan,0,0,,,0,2,2,2,2,0,2,6,4,4,4,4,2,4,2,0,0,0,0,0,2
-CarID: 150 | Year: 2006 | Make: Nissan | Model: 350z | Rated-score 8/5/2018 16:02,brappaport34@purevolume.com,Bar,2006,Nissan,350z,150,J03,Carol,0,0,0,0,0,2,2,0,0,0,0,2,0,2,0,2,2,2,2,0,2,0,2,0,2
-CarID: 15 | Year: 2014 | Make: Audi | Model: S4 | Rated-score 8/5/2018 13:49,bspinnaceb@homestead.com,Blane,2014,Audi,S4,15,J05,Adrian,2,4,2,4,2,4,4,6,6,6,6,4,6,6,6,6,6,6,6,6,4,2,4,6,6
-CarID: 145 | Year: 1990 | Make: Volkswagen | Model: Gti | Rated-score 8/5/2018 17:47,radriano33@imageshack.us,Reade,1990,Volkswagen,Gti,145,J01,Wayne,2,0,2,2,2,2,2,0,0,2,2,0,2,2,2,2,2,2,0,2,2,0,2,2,2
-CarID: 144 | Year: 2016 | Make: Volkswagen | Model: Gti | Rated-score 8/5/2018 17:50,dmattimoe32@techcrunch.com,Davidde,2016,Volkswagen,Gti,144,J01,Wayne,0,0,0,0,0,0,0,0,2,2,2,2,2,2,2,2,2,0,0,2,2,0,2,2,2
-CarID: 142 | Year: 1993 | Make: Toyota | Model: Supra | Rated-score 8/5/2018 16:08,gficken31@jugem.jp,Giorgio,1993,Toyota,Supra,142,J04,Bob,0,0,2,2,4,2,4,0,0,2,2,2,2,2,2,6,2,0,6,4,2,0,2,4,6
-CarID: 141 | Year: 1993 | Make: Mazda | Model: Miata | Rated-score 8/5/2018 16:21,dgude30@psu.edu,Diego,1993,Mazda,Miata,141,J04,Bob,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,2,2,4,2,4,0,2,2,0,2
-CarID: 140 | Year: 1995 | Make: Mitsu | Model: Evo8 | Rated-score 8/5/2018 17:52,rweathers2z@linkedin.com,Roger,1995,Mitsu,Evo8,140,J08,Danny,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,0,0,0
-CarID: 14 | Year: 1990 | Make: Nissan | Model: Skyline | Rated-score 8/5/2018 14:02,hscandricka@timesonline.co.uk,Hugibert,1990,Nissan,Skyline,14,J03,Carol,2,0,2,2,0,2,0,0,2,0,2,2,0,2,2,2,0,0,2,2,0,0,0,0,2
-CarID: 138 | Year: 1990 | Make: Mazda | Model: Miata | Rated-score 8/5/2018 16:23,amitton2y@stanford.edu,Andras,1990,Mazda,Miata,138,J04,Bob,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,2,2,0,0,0,2,0,0
-CarID: 134 | Year: 2013 | Make: Subaru | Model: WRX | Rated-score 8/5/2018 16:30,cjeandel2v@thetimes.co.uk,Cooper,2013,Subaru,WRX,134,J09,Dan,2,2,4,2,2,4,2,2,2,2,2,4,2,2,2,4,2,2,2,2,2,0,0,0,2
-CarID: 128 | Year: 2010 | Make: Infiniti | Model: G37 | Rated-score 8/5/2018 17:43,mbariball2t@slate.com,Martin,2010,Infiniti,G37,128,J06,Aaron,0,6,6,6,4,6,4,6,6,4,6,6,2,6,6,4,6,6,6,6,6,4,6,4,6
-CarID: 127 | Year: 2013 | Make: Acura | Model: Tsx | Rated-score 8/5/2018 17:44,dmalyan2s@bloglines.com,Donal,2013,Acura,Tsx,127,J04,Bob,0,0,2,2,4,4,4,4,4,4,4,4,6,6,4,0,4,6,6,6,4,0,2,0,6
-CarID: 126 | Year: 2010 | Make: Volkswagen | Model: Eos | Rated-score 8/5/2018 17:37,sdaglish2r@timesonline.co.uk,Stern,2010,Volkswagen,Eos,126,J01,Wayne,0,0,0,0,0,6,2,6,6,4,4,6,6,6,4,6,4,6,6,2,4,0,4,4,6
-CarID: 124 | Year: 2015 | Make: Jeep | Model: Wrangler | Rated-score 8/5/2018 15:11,nlighterness2q@umn.edu,Noel,2015,Jeep,Wrangler,124,J02,Carl,0,6,4,2,4,6,6,4,4,4,6,6,6,6,6,4,6,6,6,6,6,4,6,4,6
-CarID: 123 | Year: 2006 | Make: Lexus | Model: Sc430 | Rated-score 8/5/2018 13:28,pvidgen2p@ca.gov,Patrizius,2006,Lexus,Sc430,123,J05,Adrian,2,0,4,2,0,4,4,2,4,4,2,4,0,2,2,2,4,0,4,4,4,4,4,0,4
-CarID: 122 | Year: 2011 | Make: Infiniti | Model: M37s | Rated-score 8/5/2018 13:20,tgoutcher2o@liveinternet.ru,Terrence,2011,Infiniti,M37s,122,J06,Aaron,0,0,2,0,0,0,2,2,2,2,2,4,0,0,0,4,4,0,4,4,4,0,4,0,4
-CarID: 121 | Year: 2012 | Make: Acura | Model: TL | Rated-score 8/5/2018 14:44,hthacke2n@yellowbook.com,Hunt,2012,Acura,TL,121,J04,Bob,0,0,0,2,0,0,0,0,0,0,2,4,4,4,4,4,2,0,0,4,2,6,2,0,4
-CarID: 12 | Year: 1990 | Make: Nissan | Model: 240 | Rated-score 8/5/2018 13:26,kbocken9@bing.com,Klemens,1990,Nissan,240,12,J03,Carol,0,0,2,2,4,2,2,0,4,4,2,4,4,2,4,4,2,4,2,2,4,0,2,2,4
-CarID: 118 | Year: 1993 | Make: Honda | Model: Civic | Rated-score 8/5/2018 14:58,gcrichmere2l@vistaprint.com,Ginger,1993,Honda,Civic,118,J06,Aaron,0,0,2,2,4,2,2,0,0,0,0,4,2,4,4,4,2,0,2,2,0,0,4,0,4
-CarID: 116 | Year: 2008 | Make: Audi | Model: A4 | Rated-score 8/5/2018 15:35,owarrender2k@yahoo.com,Obidiah,2008,Audi,A4,116,J05,Adrian,0,0,0,0,2,2,2,2,2,2,2,2,0,0,2,2,2,0,0,2,0,0,0,0,4
-CarID: 115 | Year: 2001 | Make: Honda | Model: Crv | Rated-score 8/5/2018 15:52,uwilkie2j@soup.io,Udale,2001,Honda,Crv,115,J06,Aaron,0,0,0,0,0,2,2,0,2,4,2,2,4,4,4,4,2,0,6,6,4,0,4,0,4
-CarID: 114 | Year: 2010 | Make: Volkswagen | Model: Gti | Rated-score 8/5/2018 15:19,rfarrell2h@boston.com,Roderick,2010,Volkswagen,Gti,114,J01,Wayne,0,0,2,0,0,2,2,0,0,0,0,2,0,0,6,0,2,4,2,0,0,0,0,2,2
-CarID: 112 | Year: 2008 | Make: Acura | Model: TL | Rated-score 8/5/2018 16:55,wdymocke2f@artisteer.com,Web,2008,Acura,TL,112,J04,Bob,0,0,2,2,2,6,4,6,6,6,4,6,6,6,6,6,6,6,6,6,4,4,4,0,6
-CarID: 111 | Year: 2007 | Make: Bmw | Model: 328i | Rated-score 8/5/2018 14:21,mbandiera2e@salon.com,Marlon,2007,Bmw,328i,111,J01,Wayne,2,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,4
-CarID: 110 | Year: 2011 | Make: Toyota | Model: Camry | Rated-score 8/5/2018 16:59,ugozzard2d@spiegel.de,Ugo,2011,Toyota,Camry,110,J04,Bob,0,0,0,0,0,0,0,6,0,6,4,6,6,4,4,4,2,0,6,2,2,0,2,0,4
-CarID: 11 | Year: 1991 | Make: Nissan | Model: Skyline | Rated-score 8/5/2018 15:58,kpeet8@fastcompany.com,Korey,1991,Nissan,Skyline,11,J03,Carol,0,0,2,2,2,2,2,0,0,0,2,0,0,0,0,2,2,2,2,0,2,2,2,2,2
-CarID: 108 | Year: 2013 | Make: Audi | Model: S4 | Rated-score 8/5/2018 14:13,amelato2c@google.cn,Abdul,2013,Audi,S4,108,J05,Adrian,2,0,0,2,2,0,0,0,0,0,0,2,0,0,0,2,0,0,2,0,0,0,0,0,2
-CarID: 1051 | Year: 2006 | Make: Acura | Model: Tsx | Rated-score 8/5/2018 13:38,ecoultous4j@mayoclinic.com,Eli,2006,Acura,Tsx,1051,J04,Bob,2,0,2,2,2,4,2,6,2,2,4,4,2,0,2,0,4,2,6,2,4,4,4,0,4
-CarID: 103 | Year: 2010 | Make: Acura | Model: Tsx | Rated-score 8/5/2018 13:44,benric29@cornell.edu,Beaufort,2010,Acura,Tsx,103,J04,Bob,0,0,2,0,0,2,0,2,4,4,2,4,2,4,6,4,4,0,6,6,4,6,4,2,4
-CarID: 102 | Year: 2015 | Make: Honda | Model: Accord | Rated-score 8/5/2018 14:24,cbulward28@google.co.jp,Correy,2015,Honda,Accord,102,J06,Aaron,0,0,0,0,0,0,0,0,0,0,2,0,0,2,0,2,0,0,2,0,0,0,0,0,2
-CarID: 101 | Year: 2014 | Make: Honda | Model: Civic | Rated-score 8/5/2018 15:45,tmogenot27@liveinternet.ru,Theodore,2014,Honda,Civic,101,J06,Aaron,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CarID: 100 | Year: 2006 | Make: Volvo | Model: S60r | Rated-score 8/5/2018 14:18,eambrosoli26@noaa.gov,Elwin,2006,Volvo,S60r,100,J01,Wayne,2,0,2,2,0,0,2,6,0,0,0,2,2,0,2,2,0,0,0,0,0,0,0,0,0
-CarID: 10 | Year: 2001 | Make: Nissan | Model: S15 | Rated-score 8/5/2018 15:50,hkeele7@spiegel.de,Harcourt,2001,Nissan,S15,10,J03,Carol,0,0,0,2,2,0,2,2,2,0,2,2,2,2,0,4,2,0,2,0,2,0,2,2,2
-CarID: 1 | Year: 2012 | Make: Subaru | Model: WRX | Rated-score 8/5/2018 17:48,ppillman2w@surveymonkey.com,Palmer,2012,Subaru,WRX,1,J09,Dan,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0
-CarID: 0 | Year: 2015 | Make: Chevy | Model: Camaro | Rated-score 8/5/2018 13:33,jgrene0@tinypic.com,Jordan,2015,Chevy,Camaro,0,J02,Carl,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-CarID: 99 | Year: 2014 | Make: Honda | Model: Civic si | Rated-score 8/5/2018 15:22,cvaux25@facebook.com,Clyde,2014,Honda,Civic si,99,J06,Aaron,0,0,2,2,0,2,2,0,2,0,2,2,0,2,2,0,2,0,2,2,2,4,2,2,4
-CarID: 92 | Year: 2017 | Make: Hyundai | Model: Elantra sport | Rated-score 8/5/2018 17:29,mjancy1z@privacy.gov.au,Myles,2017,Hyundai,Elantra sport,92,J04,Bob,2,0,0,0,0,0,0,2,2,2,2,2,4,4,2,2,0,0,4,0,0,0,2,0,0
-CarID: 89 | Year: 2014 | Make: Honda | Model: Civic si | Rated-score 8/5/2018 17:03,ntruggian1x@bandcamp.com,Nealon,2014,Honda,Civic si,89,J06,Aaron,0,0,2,0,0,0,0,0,0,2,2,2,0,0,0,0,2,0,2,0,0,0,2,0,2
-CarID: 72 | Year: 2016 | Make: Honda | Model: Civic si | Rated-score 8/5/2018 15:41,kromaine1l@bandcamp.com,Ken,2016,Honda,Civic si,72,J06,Aaron,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,0,0,0,0,0
-CarID: 6 | Year: 2016 | Make: Volkswagen | Model: Golf r | Rated-score 8/5/2018 13:59,hferrer3@prlog.org,Hamil,2016,Volkswagen,Golf r,6,J01,Wayne,2,0,2,2,2,4,2,6,2,4,2,2,2,2,2,2,4,4,2,2,0,0,0,0,4
-CarID: 52 | Year: 2007 | Make: Mazda | Model: Speed 3 | Rated-score 8/5/2018 14:01,bdawltrey16@i2i.jp,Ber,2007,Mazda,Speed 3,52,J04,Bob,2,0,2,2,2,2,2,2,2,2,0,2,0,2,4,4,4,2,2,2,2,0,2,2,2
-CarID: 44 | Year: 2018 | Make: Honda | Model: Civic si | Rated-score 8/5/2018 13:32,eclaffey10@meetup.com,Elisha,2018,Honda,Civic si,44,J06,Aaron,0,0,2,2,2,2,2,2,2,4,0,2,0,2,0,4,2,0,2,2,2,0,2,2,2
-CarID: 43 | Year: 2011 | Make: Toyota | Model: 4 Runner | Rated-score 8/5/2018 13:45,ghickinbottomz@usda.gov,Georgi,2011,Toyota,4 Runner,43,J04,Bob,0,0,2,0,4,4,0,0,4,4,2,6,2,2,4,0,2,0,4,2,2,4,2,0,4
-CarID: 38 | Year: 2017 | Make: Hyundai | Model: Elantra sport | Rated-score 8/5/2018 17:25,mvandermarkv@icq.com,Mill,2017,Hyundai,Elantra sport,38,J04,Bob,2,0,2,2,4,2,2,4,4,4,2,2,2,4,4,2,2,2,4,4,2,2,4,0,0
-CarID: 219 | Year: 2016 | Make: Ford | Model: Focus rs | Rated-score 8/5/2018 17:07,sgaddesby45@xing.com,Spenser,2016,Ford,Focus rs,219,J02,Carl,2,0,2,2,2,0,2,0,2,2,2,2,0,2,2,4,0,0,0,0,0,0,0,0,0
-CarID: 207 | Year: 1993 | Make: Honda | Model: Civic eG | Rated-score 8/5/2018 17:34,hchilley40@fema.gov,Hieronymus,1993,Honda,Civic eG,207,J06,Aaron,0,0,2,2,2,2,2,2,0,4,2,2,2,2,2,2,4,2,2,0,0,0,2,2,0
-CarID: 189 | Year: 2012 | Make: Toyota | Model: Fj cruiser | Rated-score 8/5/2018 17:40,dmawman3v@pagesperso-orange.fr,Derry,2012,Toyota,Fj cruiser,189,J04,Bob,0,0,2,0,2,2,0,0,4,4,2,2,0,2,2,2,4,4,2,2,4,2,4,2,2
-CarID: 177 | Year: 2005 | Make: Volkswagen | Model: Jetta gli | Rated-score 8/5/2018 14:41,rthorne3j@buzzfeed.com,Rupert,2005,Volkswagen,Jetta gli,177,J01,Wayne,0,0,0,0,0,2,2,0,0,0,0,0,0,2,2,0,0,0,2,0,0,0,0,0,2
-CarID: 159 | Year: 2013 | Make: Hyundai | Model: Gen coupe | Rated-score 8/5/2018 16:12,mdearl39@amazon.co.uk,Martin,2013,Hyundai,Gen coupe,159,J04,Bob,0,0,2,0,0,0,2,0,0,0,0,2,0,2,2,0,2,0,2,0,0,0,0,0,0
-CarID: 137 | Year: 2017 | Make: Ford | Model: Focus rs | Rated-score 8/5/2018 16:26,tchapellow2x@addtoany.com,Tristam,2017,Ford,Focus rs,137,J02,Carl,2,2,2,4,2,2,2,4,2,4,4,2,2,2,2,2,4,0,0,2,2,4,2,0,0
-CarID: 130 | Year: 2016 | Make: Honda | Model: Civic si | Rated-score 8/5/2018 16:33,dwatmough2u@oaic.gov.au,Denys,2016,Honda,Civic si,130,J06,Aaron,2,0,0,0,0,0,2,0,0,2,0,2,0,0,0,2,2,0,4,2,2,0,4,0,0
-CarID: 13 | Year: 2016 | Make: Honda | Model: Civic 1.5t | Rated-score 8/5/2018 17:25,rguitonneauu@goo.gl,Robbert,2016,Honda,Civic 1.5t,13,J06,Aaron,2,0,0,2,0,4,2,4,6,6,6,4,4,4,6,6,6,2,6,4,4,2,2,4,6
-CarID: 120 | Year: 2014 | Make: Ford | Model: Focus st | Rated-score 8/5/2018 15:11,ebyram2m@digg.com,Elwyn,2014,Ford,Focus st,120,J02,Carl,2,0,2,2,2,2,2,0,0,0,2,2,0,0,2,2,2,0,2,0,2,0,2,0,2
-CarID: 113 | Year: 2012 | Make: Acura | Model: Tsx sportwagon | Rated-score 8/5/2018 13:32,meilert2g@people.com.cn,Marcel,2012,Acura,Tsx sportwagon,113,J04,Bob,2,0,2,2,2,6,6,6,6,6,6,6,6,6,6,6,6,0,4,6,6,6,6,2,6
-CarID: 106 | Year: 2007 | Make: Acura | Model: Tl type s | Rated-score 8/5/2018 13:20,imeeron2b@buzzfeed.com,Ignazio,2007,Acura,Tl type s,106,J04,Bob,2,0,4,2,2,2,4,0,4,4,6,6,4,2,2,2,4,0,4,2,4,6,4,4,4
-CarID: 104 | Year: 2014 | Make: Honda | Model: Civic si | Rated-score 8/5/2018 13:25,tfero2a@wired.com,Tanner,2014,Honda,Civic si,104,J06,Aaron,2,0,2,2,4,2,2,2,4,4,2,2,0,0,2,2,2,0,2,4,0,4,2,0,2
+CarID: 124 | Year: 2015 | Make: Jeep | Model: Wrangler | Rated-score 6
+CarID: 98 | Year: 2012 | Make: Mercedes | Model: C63 | Rated-score 4
+CarID: 91 | Year: 2010 | Make: Mitsu | Model: Lancer | Rated-score 4
+CarID: 9 | Year: 1996 | Make: Nissan | Model: 240 | Rated-score 4
+CarID: 84 | Year: 2012 | Make: Mercedes | Model: Cl63amg | Rated-score 4
+CarID: 83 | Year: 2014 | Make: Honda | Model: Accord | Rated-score 4
+CarID: 65 | Year: 2009 | Make: Honda | Model: Fit | Rated-score 4
+CarID: 63 | Year: 2010 | Make: Honda | Model: Civic | Rated-score 4
+CarID: 57 | Year: 2015 | Make: Scion | Model: Frs | Rated-score 4
+CarID: 36 | Year: 2016 | Make: Subaru | Model: WRX | Rated-score 4
+CarID: 33 | Year: 2015 | Make: Subaru | Model: Sti | Rated-score 4
+CarID: 31 | Year: 2007 | Make: Honda | Model: Fit | Rated-score 4
+CarID: 228 | Year: 2010 | Make: Nissan | Model: 370 | Rated-score 4
+CarID: 218 | Year: 2010 | Make: Chevy | Model: Camaro | Rated-score 4
+CarID: 216 | Year: 2007 | Make: Chrystler | Model: 300 | Rated-score 4
+CarID: 180 | Year: 2011 | Make: Volkswagen | Model: Gti | Rated-score 4
+CarID: 179 | Year: 2004 | Make: Volkswagen | Model: R32 | Rated-score 4
+CarID: 175 | Year: 2006 | Make: Honda | Model: Civic | Rated-score 4
+CarID: 15 | Year: 2014 | Make: Audi | Model: S4 | Rated-score 4
+CarID: 142 | Year: 1993 | Make: Toyota | Model: Supra | Rated-score 4
+CarID: 128 | Year: 2010 | Make: Infiniti | Model: G37 | Rated-score 4
+CarID: 127 | Year: 2013 | Make: Acura | Model: Tsx | Rated-score 4
+CarID: 123 | Year: 2006 | Make: Lexus | Model: Sc430 | Rated-score 4
+CarID: 112 | Year: 2008 | Make: Acura | Model: TL | Rated-score 4
+CarID: 88 | Year: 2008 | Make: Honda | Model: Accord | Rated-score 2
+CarID: 8 | Year: 1991 | Make: Nissan | Model: Skyline | Rated-score 2
+CarID: 75 | Year: 2012 | Make: Subaru | Model: WRX | Rated-score 2
+CarID: 59 | Year: 2012 | Make: Volkswagen | Model: Golf | Rated-score 2
+CarID: 53 | Year: 2013 | Make: Subaru | Model: WRX | Rated-score 2
+CarID: 51 | Year: 2015 | Make: Subaru | Model: WRX | Rated-score 2
+CarID: 50 | Year: 2015 | Make: Acura | Model: TLX | Rated-score 2
+CarID: 5 | Year: 2003 | Make: Acura | Model: Rsx | Rated-score 2
+CarID: 49 | Year: 1997 | Make: Acura | Model: Integra | Rated-score 2
+CarID: 46 | Year: 2008 | Make: Volkswagen | Model: R32 | Rated-score 2
+CarID: 45 | Year: 2006 | Make: Acura | Model: TL | Rated-score 2
+CarID: 4341 | Year: 1992 | Make: Nissan | Model: Rps13 | Rated-score 2
+CarID: 41 | Year: 2012 | Make: Acura | Model: Tsx | Rated-score 2
+CarID: 4 | Year: 2007 | Make: Honda | Model: Civic | Rated-score 2
+CarID: 39 | Year: 2011 | Make: Honda | Model: Civic | Rated-score 2
+CarID: 37 | Year: 2015 | Make: Subaru | Model: Sti | Rated-score 2
+CarID: 35 | Year: 2016 | Make: Honda | Model: Civic | Rated-score 2
+CarID: 30 | Year: 2012 | Make: Hyundai | Model: Celoster | Rated-score 2
+CarID: 3 | Year: 2011 | Make: Nissan | Model: 370 | Rated-score 2
+CarID: 235 | Year: 2013 | Make: Scion | Model: Frs | Rated-score 2
+CarID: 232 | Year: 2018 | Make: Subaru | Model: WRX | Rated-score 2
+CarID: 211 | Year: 2004 | Make: Acura | Model: Tsx | Rated-score 2
+CarID: 21 | Year: 2009 | Make: Subaru | Model: WRX | Rated-score 2
+CarID: 20 | Year: 2009 | Make: Infiniti | Model: G37 | Rated-score 2
+CarID: 2 | Year: 2016 | Make: Bmw | Model: M2 | Rated-score 2
+CarID: 187 | Year: 2007 | Make: Subaru | Model: Legacy | Rated-score 2
+CarID: 186 | Year: 2012 | Make: Volkswagen | Model: Gli | Rated-score 2
+CarID: 184 | Year: 2010 | Make: Volkswagen | Model: Cc | Rated-score 2
+CarID: 183 | Year: 2005 | Make: Volkswagen | Model: Jetta | Rated-score 2
+CarID: 181 | Year: 2003 | Make: Volkswagen | Model: Gti | Rated-score 2
+CarID: 178 | Year: 2009 | Make: Honda | Model: Oddesy | Rated-score 2
+CarID: 176 | Year: 2014 | Make: Mitsu | Model: Lancer | Rated-score 2
+CarID: 174 | Year: 2006 | Make: Acura | Model: Rsx | Rated-score 2
+CarID: 17 | Year: 2016 | Make: Mercedes | Model: C43 | Rated-score 2
+CarID: 167 | Year: 2016 | Make: Ford | Model: Mystang | Rated-score 2
+CarID: 163 | Year: 2013 | Make: Mitsu | Model: Ralliart | Rated-score 2
+CarID: 162 | Year: 2014 | Make: Nissan | Model: 370z | Rated-score 2
+CarID: 161 | Year: 2012 | Make: Nissan | Model: 370z | Rated-score 2
+CarID: 153 | Year: 2017 | Make: Subaru | Model: Brz | Rated-score 2
+CarID: 150 | Year: 2006 | Make: Nissan | Model: 350z | Rated-score 2
+CarID: 145 | Year: 1990 | Make: Volkswagen | Model: Gti | Rated-score 2
+CarID: 140 | Year: 1995 | Make: Mitsu | Model: Evo8 | Rated-score 2
+CarID: 134 | Year: 2013 | Make: Subaru | Model: WRX | Rated-score 2
+CarID: 126 | Year: 2010 | Make: Volkswagen | Model: Eos | Rated-score 2
+CarID: 122 | Year: 2011 | Make: Infiniti | Model: M37s | Rated-score 2
+CarID: 12 | Year: 1990 | Make: Nissan | Model: 240 | Rated-score 2
+CarID: 118 | Year: 1993 | Make: Honda | Model: Civic | Rated-score 2
+CarID: 116 | Year: 2008 | Make: Audi | Model: A4 | Rated-score 2
+CarID: 115 | Year: 2001 | Make: Honda | Model: Crv | Rated-score 2
+CarID: 114 | Year: 2010 | Make: Volkswagen | Model: Gti | Rated-score 2
+CarID: 11 | Year: 1991 | Make: Nissan | Model: Skyline | Rated-score 2
+CarID: 1051 | Year: 2006 | Make: Acura | Model: Tsx | Rated-score 2
+CarID: 100 | Year: 2006 | Make: Volvo | Model: S60r | Rated-score 2
+CarID: 10 | Year: 2001 | Make: Nissan | Model: S15 | Rated-score 2
+CarID: Vip | Year: 2008 | Make: Volkswagen | Model: Gli | Rated-score 0
+CarID: 99 | Year: 2014 | Make: Honda | Model: Civic si | Rated-score 2
+CarID: 96 | Year: 2017 | Make: Volkswagen | Model: Gti | Rated-score 0
+CarID: 95 | Year: 2004 | Make: Infiniti | Model: G35 | Rated-score 0
+CarID: 94 | Year: 2004 | Make: Volkswagen | Model: Gti | Rated-score 0
+CarID: 93 | Year: 2005 | Make: Acura | Model: TL | Rated-score 0
+CarID: 92 | Year: 2017 | Make: Hyundai | Model: Elantra sport | Rated-score 0
+CarID: 89 | Year: 2014 | Make: Honda | Model: Civic si | Rated-score 0
+CarID: 86 | Year: 1996 | Make: Volkswagen | Model: Jetta | Rated-score 0
+CarID: 85 | Year: 2017 | Make: Honda | Model: Accord | Rated-score 0
+CarID: 81 | Year: 2016 | Make: Volkswagen | Model: GTI | Rated-score 0
+CarID: 79 | Year: 1993 | Make: Mazda | Model: Miata | Rated-score 0
+CarID: 78 | Year: 2015 | Make: Mazda | Model: 6 | Rated-score 0
+CarID: 76 | Year: 2005 | Make: Subaru | Model: Sti | Rated-score 0
+CarID: 74 | Year: 2015 | Make: Honda | Model: Accord | Rated-score 0
+CarID: 72 | Year: 2016 | Make: Honda | Model: Civic si | Rated-score 0
+CarID: 71 | Year: 2008 | Make: Acura | Model: TL | Rated-score 0
+CarID: 70 | Year: 2014 | Make: Honda | Model: Civic | Rated-score 0
+CarID: 7 | Year: 2014 | Make: Nissan | Model: Sentra | Rated-score 0
+CarID: 69 | Year: 2018 | Make: Subaru | Model: WRX | Rated-score 0
+CarID: 68 | Year: 2013 | Make: Nissan | Model: Altima | Rated-score 0
+CarID: 67 | Year: 2015 | Make: Subaru | Model: Sti | Rated-score 0
+CarID: 66 | Year: 2010 | Make: Volkswagen | Model: Gti | Rated-score 0
+CarID: 64 | Year: 2004 | Make: Subaru | Model: Forester | Rated-score 0
+CarID: 6 | Year: 2016 | Make: Volkswagen | Model: Golf r | Rated-score 2
+CarID: 56 | Year: 2009 | Make: Volkswagen | Model: Jetta | Rated-score 0
+CarID: 52 | Year: 2007 | Make: Mazda | Model: Speed 3 | Rated-score 2
+CarID: 48 | Year: 2015 | Make: Acura | Model: TLX | Rated-score 0
+CarID: 44 | Year: 2018 | Make: Honda | Model: Civic si | Rated-score 2
+CarID: 43 | Year: 2011 | Make: Toyota | Model: 4 Runner | Rated-score 0
+CarID: 42 | Year: 2001 | Make: Dodge | Model: Viper | Rated-score 0
+CarID: 40 | Year: 2007 | Make: Subaru | Model: Legacy | Rated-score 0
+CarID: 38 | Year: 2017 | Make: Hyundai | Model: Elantra sport | Rated-score 2
+CarID: 34 | Year: 2010 | Make: Honda | Model: Fit | Rated-score 0
+CarID: 28 | Year: 1995 | Make: Bmw | Model: 318xi | Rated-score 0
+CarID: 25 | Year: 2012 | Make: Mercedes | Model: C250 | Rated-score 0
+CarID: 243 | Year: 2008 | Make: Toyota | Model: Matrix | Rated-score 0
+CarID: 242 | Year: 2014 | Make: Nissan | Model: Maxima | Rated-score 0
+CarID: 241 | Year: 2007 | Make: Toyota | Model: Camry | Rated-score 0
+CarID: 24 | Year: 2013 | Make: Subaru | Model: BRZ | Rated-score 0
+CarID: 238 | Year: 1982 | Make: Volkswagen | Model: Rabbit | Rated-score 0
+CarID: 237 | Year: 1987 | Make: Volkswagen | Model: Jetta | Rated-score 0
+CarID: 230 | Year: 2004 | Make: Acura | Model: Tsx | Rated-score 0
+CarID: 23 | Year: 1998 | Make: Subaru | Model: Legacy | Rated-score 0
+CarID: 226 | Year: 2008 | Make: Honda | Model: Accord | Rated-score 0
+CarID: 225 | Year: 2016 | Make: Acura | Model: TLX | Rated-score 0
+CarID: 222 | Year: 2015 | Make: Lexus | Model: Is250 | Rated-score 0
+CarID: 220 | Year: 2004 | Make: Audi | Model: A4 | Rated-score 0
+CarID: 22 | Year: 2007 | Make: Honda | Model: Civic | Rated-score 0
+CarID: 219 | Year: 2016 | Make: Ford | Model: Focus rs | Rated-score 2
+CarID: 212 | Year: 2001 | Make: Lexus | Model: Is300 | Rated-score 0
+CarID: 207 | Year: 1993 | Make: Honda | Model: Civic eG | Rated-score 2
+CarID: 200 | Year: 2016 | Make: Subaru | Model: WRX | Rated-score 0
+CarID: 197 | Year: 2010 | Make: Audi | Model: A4 | Rated-score 0
+CarID: 193 | Year: 2014 | Make: Nissan | Model: Ssntra | Rated-score 0
+CarID: 190 | Year: 1995 | Make: Lexus | Model: Sc300 | Rated-score 0
+CarID: 19 | Year: 2001 | Make: Mitsu | Model: Evo7 | Rated-score 0
+CarID: 189 | Year: 2012 | Make: Toyota | Model: Fj cruiser | Rated-score 0
+CarID: 185 | Year: 2013 | Make: Volkswagen | Model: Jett | Rated-score 0
+CarID: 182 | Year: 2012 | Make: Volkswagen | Model: Cc | Rated-score 0
+CarID: 18 | Year: 2015 | Make: Audi | Model: S3 | Rated-score 0
+CarID: 177 | Year: 2005 | Make: Volkswagen | Model: Jetta gli | Rated-score 2
+CarID: 172 | Year: 2014 | Make: Bmw | Model: 4 | Rated-score 0
+CarID: 170 | Year: 2014 | Make: Chevy | Model: Cruze | Rated-score 0
+CarID: 16 | Year: 2008 | Make: Nissan | Model: 350z | Rated-score 0
+CarID: 159 | Year: 2013 | Make: Hyundai | Model: Gen coupe | Rated-score 2
+CarID: 158 | Year: 2007 | Make: Nissan | Model: 350z | Rated-score 0
+CarID: 156 | Year: 2014 | Make: Volkswagen | Model: Gli | Rated-score 0
+CarID: 144 | Year: 2016 | Make: Volkswagen | Model: Gti | Rated-score 0
+CarID: 141 | Year: 1993 | Make: Mazda | Model: Miata | Rated-score 0
+CarID: 14 | Year: 1990 | Make: Nissan | Model: Skyline | Rated-score 0
+CarID: 138 | Year: 1990 | Make: Mazda | Model: Miata | Rated-score 0
+CarID: 137 | Year: 2017 | Make: Ford | Model: Focus rs | Rated-score 2
+CarID: 130 | Year: 2016 | Make: Honda | Model: Civic si | Rated-score 2
+CarID: 13 | Year: 2016 | Make: Honda | Model: Civic 1.5t | Rated-score 2
+CarID: 121 | Year: 2012 | Make: Acura | Model: TL | Rated-score 0
+CarID: 120 | Year: 2014 | Make: Ford | Model: Focus st | Rated-score 2
+CarID: 113 | Year: 2012 | Make: Acura | Model: Tsx sportwagon | Rated-score 6
+CarID: 111 | Year: 2007 | Make: Bmw | Model: 328i | Rated-score 0
+CarID: 110 | Year: 2011 | Make: Toyota | Model: Camry | Rated-score 0
+CarID: 108 | Year: 2013 | Make: Audi | Model: S4 | Rated-score 0
+CarID: 106 | Year: 2007 | Make: Acura | Model: Tl type s | Rated-score 4
+CarID: 104 | Year: 2014 | Make: Honda | Model: Civic si | Rated-score 2
+CarID: 103 | Year: 2010 | Make: Acura | Model: Tsx | Rated-score 0
+CarID: 102 | Year: 2015 | Make: Honda | Model: Accord | Rated-score 0
+CarID: 101 | Year: 2014 | Make: Honda | Model: Civic | Rated-score 0
+CarID: 1 | Year: 2012 | Make: Subaru | Model: WRX | Rated-score 0
+CarID: 0 | Year: 2015 | Make: Chevy | Model: Camaro | Rated-score 0
